@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "image": "https://wallpaperaccess.com/full/4205645.jpg",
+    "title": "ABC"
+  },
+  {
+    "id": 2,
+    "image": "https://www.microsoft.com/en-us/research/uploads/prod/2012/12/NYCAGTImage-1920x720.jpg",
+    "title": "DEF"
+  },
+  {
+    "id": 3,
+    "image": "https://images8.alphacoders.com/119/thumb-1920-1190498.jpg",
+    "title": "ABC"
+  },
+  {
+    "id": 4,
+    "image": "https://images5.alphacoders.com/395/thumb-1920-395696.jpg",
+    "title": "DEF"
+  }
+]
